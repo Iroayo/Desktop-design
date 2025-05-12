@@ -26,11 +26,7 @@ h1, p , h2{
     display: flex;
     justify-content: center;
     align-items: center;
-<<<<<<< HEAD
     margin-top: 150px ;
-=======
-    margin-top: 200px ;
->>>>>>> fedcb7d7bcd9768f37cd4f018836007e2c8b3b8b
 }
 
 .main1{
